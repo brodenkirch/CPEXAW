@@ -1,0 +1,41 @@
+﻿Date,Time,Case,Primary Convective Type,Convective Lifecycle,Echo Type,Environment Falling In,Env't Falling In Notes,Environment Falling In Ambiguous,Region,Associated with a TC,Primary Convective Propagation,Environment Relative to Convective Pass,Direction Relative to Convection,Sfc Pressure [mb],Sfc Height [m],PBL Top [mb],Mid Layer RH [%],Upper Layer RH [%]
+20170610,202102,1,Isolated,Mature,Convective,Clear Near,,,Western Atlantic,No,,,,1002.5,157.9,927,60.2,37.7
+20170610,220114,1,Isolated,Weakening,Stratiform,Clear Near,,,Western Atlantic,No,,,,1014.8,56.4,933.7,60.1,35.4
+20170610,203205,1,Isolated,Mature,Convective,Clear Near,,,Western Atlantic,No,None,Unclear,Southwest,1006.2,99.6,935.4,62.1,45.4
+20170610,211105,1,Isolated,Mature,Convective,Clear Near,,,Western Atlantic,No,,,,1009.3,124,939.9,62.7,40.1
+20170610,195511,1,Isolated,Mature,Convective,Clear Near,,,Western Atlantic,No,,,,1011.4,64.9,942.2,57.5,54.4
+20170610,201356,1,Isolated,Mature,Convective,Clear Near,,,Western Atlantic,No,,,,1012.1,76.8,943.8,64.8,37.3
+20170610,205330,1,Isolated,Mature,Stratiform,In Cloud,,,Western Atlantic,No,,,,1011.3,64.1,954.6,66.1,59
+20170610,221927,1,Isolated,Weakening,Stratiform,Clear Near,,,Western Atlantic,No,None,Unclear,Northwest,1008.7,124.8,989.1,76.6,50.9
+20170610,195833,1,Isolated,Mature,Convective,Clear Near,,,Western Atlantic,No,None,Unclear,Northwest,1003.8,121.6,991.6,71,41.5
+20170610,220937,1,Isolated,Weakening,Stratiform,In Cloud,"Near stratiform of main cell, but some shallower, weak convection surrounds it (timewise)",,Western Atlantic,No,,,,1010,119.5,1002.7,79.4,76.1
+20170624,191207,2,Isolated,Mature,Convective,Clear Near,Convective cell surrounds it (timewise),,Caribbean,No,Westward,Unclear,North,998,170,985.7,77.3,39.5
+20170624,205531,3,Isolated,Mature,Convective,Clear Near,,,Gulf,No,Westward,After,East,1000.6,204,957.9,68.9,55.6
+20170624,210621,3,Isolated,Mature,Convective,In Cloud,"SkewT would appear to indicate this is not actually in precip, but just In Cloud likely",Yes,Gulf,No,,,,984,280.2,958.3,79.3,73.4
+20170624,202405,3,Isolated,Growing,Convective,Clear Near,SkewT may suggest In Cloud from 700-800mb,Yes,Gulf,No,Westward,Unclear,East,981.7,310.2,959.4,78.9,51.7
+20170624,204033,3,Isolated,Growing,Convective,Clear Near,,,Gulf,No,Westward,Before,West,1001.8,133,967.9,76.5,56.6
+20170615,195138,4,Organized,Mature,Stratiform,In Cloud,,,Caribbean,No,Northward,During,Within,997.9,154.2,911.8,83.6,78
+20170615,200515,4,Organized,Mature,Stratiform,In Cloud,,,Caribbean,No,Northward,After,South,1008.4,50.7,913.3,66.2,77.1
+20170601,205904,6,Organized,Mature,Stratiform,In Cloud,In strengthening convective core,,Gulf,No,Eastward,During,South,1008.4,124.8,945.9,82.2,82.9
+20170606,212211,7,Organized,Mature,Stratiform,Clear Near,,,Gulf,No,Eastward,After,West,988.2,165.5,979.7,68,37.1
+20170606,195258,7,Organized,Mature,Stratiform,Clear Near,,,Gulf,No,Eastward,After,West,995.3,104.9,988.9,71.7,47
+20170611,181534,13,Organized,Growing,Convective,Clear Near,,,Gulf,No,,,,998.7,109.8,939.8,59.6,43.6
+20170611,180620,13,Organized,Growing,Convective,Clear Near,,,Gulf,No,Eastward,Unclear,West,987,233.8,946.3,72.3,43.4
+20170611,181950,13,Organized,Growing,Convective,Clear Near,,,Gulf,No,,,,1001.3,83.4,947.7,60.2,39.4
+20170611,191804,13,Organized,Mature,Convective,In Cloud,,,Gulf,No,,,,990.8,194.8,954,78.8,66.8
+20170611,180016,13,Organized,Growing,Convective,Clear Near,,,Gulf,No,,,,1006.2,57.8,956.6,74.4,51
+20170611,192343,13,Organized,Mature,Stratiform,In Cloud,,,Gulf,No,Eastward,Before,East,1000.1,125.8,956.7,84.1,76.9
+20170611,202058,13,Organized,Weakening,Stratiform,In Cloud,"On edge of stratiform; skewT might show In Precip, might not",Yes,Gulf,No,,,,1001,162.3,959.5,84.5,80
+20170611,204602,13,Organized,Weakening,Stratiform,Clear Near,,,Gulf,No,Eastward,Before,East,995.2,156.8,970.4,64.4,47.3
+20170611,195558,13,Organized,Mature,Stratiform,Clear Near,,,Gulf,No,,,,1007.4,41.8,972.6,73.5,22.2
+20170611,200348,13,Organized,Mature,Stratiform,In Cloud,On edge of stratiform; skewT would indicate this is probably In Cloud,Yes,Gulf,No,Eastward,Unclear,West,999.5,158.3,973.1,85.4,59.1
+20170611,194957,13,Organized,Mature,Stratiform,Clear Near,,,Gulf,No,,,,995.8,176.4,979.4,56.6,30.8
+20170611,200505,13,Organized,Mature,Stratiform,In Cloud,"On edge of stratiform; skewT might show In Precip, might not",Yes,Gulf,No,,,,994.1,224.7,980.9,83.8,84.1
+20170611,185332,13,Organized,Mature,Convective,Clear Near,,,Gulf,No,,,,1006.5,46.7,987.6,66.6,32.8
+20170611,185925,13,Organized,Mature,Convective,Clear Near,,,Gulf,No,Eastward,Unclear,West,999.9,111.2,988.1,79.1,34
+20210821,230907,14,Organized,Mature,Convective,Clear Near,,,Western Atlantic,No,,,,983.5,90.7,933.3,70,74.7
+20210822,10430,15,Isolated,Weakening,Convective,Clear Near,,,Western Atlantic,No,,,,1010.9,12.6,944,74.9,67.3
+20210822,5650,15,Isolated,Weakening,Convective,Clear Near,,,Western Atlantic,No,,,,1010.8,11.3,975.6,77.6,72.8
+20210824,190312,16,Organized,Mature,Convective,Clear Near,,,Caribbean,No,,,,1007,8.1,907.9,37.8,54
+20210824,190929,16,Organized,Mature,Stratiform,Clear Near,,,Caribbean,No,,,,999,51.1,912.4,31.3,50.9
+20210824,180143,16,Organized,Mature,Convective,Clear Near,,,Caribbean,No,,,,1007.1,8.2,918.9,45.9,44.8
