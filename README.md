@@ -1,2 +1,2 @@
 # CPEXAW
-This repo contains script templates and CSV files used for the owner's NASA CPEX and CPEX-AW field campaign analysis.
+This repo contains Python script templates and CSV data files used for the owner's NASA CPEX and CPEX-AW field campaign analysis.
