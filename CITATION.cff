@@ -4,7 +4,7 @@ authors:
 - family-names: "Rodenkirch"
   given-names: "Benjamin"
   orcid: "https://orcid.org/0000-0002-0102-5125"
-title: "CPEXAW"
+title: "brodenkirch/CPEXAW"
 version: 1.0.0
 doi: 10.5281/zenodo.10884221
 date-released: 2024-03-26
